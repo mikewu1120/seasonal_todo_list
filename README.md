@@ -1,6 +1,6 @@
 # Seasonal To-Do List
 
-This project is a simple **Seasonal To-Do List** application built with HTML, CSS, and JavaScript. It allows users to add, edit, delete, and filter tasks based on different seasons (spring, summer, fall, and winter). Tasks are displayed as color-coded cards based on the selected season. The app also provides a corkboard background for a visually engaging interface.
+This project is a simple [**Seasonal To-Do List**](https://mikewu1120.github.io/seasonal_todo_list/seasonal_todo_list.html) application built with HTML, CSS, and JavaScript. It allows users to add, edit, delete, and filter tasks based on different seasons (spring, summer, fall, and winter). Tasks are displayed as color-coded cards based on the selected season. The app also provides a corkboard background for a visually engaging interface.
 
 ## Features
 
